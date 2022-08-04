@@ -32,7 +32,7 @@ input::placeholder{
 /*nav&hero */
 
  .navhero{
-    background-image: url('/img/tingey-injury-law-firm-yCdPU73kGSc-unsplash\ 1.jpg');
+    background-image: url('./img/tingey-injury-law-firm-yCdPU73kGSc-unsplash\ 1.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     position: relative;
@@ -700,7 +700,7 @@ footer img{
 
 /* quierry */
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:500px){
 
 /* first section */
     
